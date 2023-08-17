@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Yozai';
+    src: url('Yozai.woff2') format('woff2'),
+        url('Yozai.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
